@@ -14,7 +14,8 @@ buttons.map( button => {
                 try{
                     display.innerText = eval(display.innerText);
                 } catch {
-                    display.innerText = "Error"
+                    // display.innerText = "calc error" ;
+                    display.innerText = '';
                 }
                 break;
             case 'C':
