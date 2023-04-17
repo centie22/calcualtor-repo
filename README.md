@@ -1,2 +1,2 @@
 # calcualtor-repo
- My frist Claculator
+Attempt at building a Claculator
